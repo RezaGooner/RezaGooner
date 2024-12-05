@@ -19,7 +19,7 @@
             <li>🎓 Computer Engineering Student at Yasouj University</li>
             <li>🌱 Learning Full-Stack Development</li>
             <li>🏆 Competitive Programming with C++ and Python</li>
-            <li>📧 Reach me via <a href="mailto:reza@example.com" target="_blank">Email</a></li>
+            <li>📧 Reach me via <a href="mailto:RezaGooner@gmail.com" target="_blank">Email</a></li>
         </ul>
         <details>
             <summary>📫 (Click to Expand) <strong>Contact Me</strong></summary>
