@@ -47,15 +47,13 @@
                 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGooner&theme=transparent" />
             </div>
         </details>
+        <details>
             <summary>🏅 <strong>Honors</strong></summary>
             <div align="center">
-                <p>Participation in the ICPC regional competitions (one time) and achieving 35th place out of 81 in the Tehran site competition.</p>
+                <p>Participation in the ICPC regional competitions (one time) and achieving 35th place out of 81 in the 2024 Tehran site competition. 
+                You can view the scoreboard <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>.</p>
             </div>
-        <div align="center">
-            <strong>Visitor Count</strong>
-            <br />
-            <img src="https://profile-counter.glitch.me/RezaGooner/count.svg" />
-        </div>
+        </details>
     </body>
 </html>
 
