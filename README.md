@@ -50,7 +50,7 @@
         <details>
             <summary>🏅 <strong>Honors</strong></summary>
             <div align="center">
-                <p>Participation in the ICPC regional competitions (one time) and achieving 35th place out of 81 in the 2024 Tehran site competition. 
+                <p>Participation in the ICPC regional competitions (one time) and achieving 35th place out of 60 in the 2024 Tehran site competition. 
                 You can view the scoreboard <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>.</p>
             </div>
         </details>
