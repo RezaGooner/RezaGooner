@@ -22,7 +22,7 @@
             <li>📧 Reach me via <a href="mailto:RezaGooner@gmail.com" target="_blank">Email</a></li>
         </ul>
         <details>
-            <summary>📫 (Click to Expand) <strong>Contact Me</strong></summary>
+            <summary>📫 <strong>Contact Me</strong></summary>
             <div align="center">
                 <a href="https://t.me/RezaGooner" target="_blank">
                     <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -33,7 +33,7 @@
             </div>
         </details>
         <details>
-            <summary>🚀 (Click to Expand) <strong>Languages & Tools</strong></summary>
+            <summary>🚀 <strong>Languages & Tools</strong></summary>
             <div align="center">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
@@ -41,24 +41,18 @@
             </div>
         </details>
         <details>
-            <summary>🔥 (Click to Expand) <strong>My Stats</strong></summary>
+            <summary>🔥 <strong>My Stats</strong></summary>
             <div align="center">
                 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RezaGooner&show_icons=true&theme=transparent" />
                 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGooner&theme=transparent" />
             </div>
         </details>
         <details>
-            <summary>🏅 <strong>Honors</strong></summary>
+            <summary>🏅 <strong>Honor</strong></summary>
             <div align="center">
-                <p>Participation in the ICPC regional competitions (one time) and achieving 35th place out of 60 in the 2024 Tehran site competition. 
+                <p>Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
                 You can view the scoreboard <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>.</p>
             </div>
         </details>
     </body>
 </html>
-
----
-
-### 🔮 Looking forward to contributing more to the open-source community!
-
----
