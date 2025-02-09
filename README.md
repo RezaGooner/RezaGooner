@@ -48,9 +48,9 @@
             </div>
         </details>
         <details>
-            <summary>🏅 <strong>Honor</strong></summary>
+            <summary>🏅 <strong>Honors and Achievements</strong></summary>
             <div align="center">
-                <p>Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
+                <p> <a href="file:///C:/Users/Reza/Downloads/2025-ICPC%20Asia%20Tehran%202024%20(Online)-MEDAL%20(1).pdf" target="_blank">Honored</a>  to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
                 You can view the scoreboard <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>.</p>
             </div>
         </details>
