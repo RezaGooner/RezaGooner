@@ -48,12 +48,22 @@
             </div>
         </details>
         <details>
-            <summary>🏅 <strong>Honors and Achievements</strong></summary>
-            <div align="center"> <ul>
-                <li> <p> Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
-                You can view the scoreboard <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>.</p> </li>
-            </ul>
-            </div>
-        </details>
-    </body>
+    <summary>🏅 <strong>Honors and Achievements</strong></summary>
+    <div style="text-align: left; direction: ltr;">
+        <ul>
+            <li>
+                <p> Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
+                    You can view the scoreboard 
+                    <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>
+                </p>
+            </li>
+            <li>
+                <p> Passing the Quera Data Structures course with a PERFECT grade. <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">Course certificate</a>
+                </p>
+            </li>
+        </ul>
+    </div>
+</details>
+
+</body>
 </html>
