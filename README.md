@@ -33,13 +33,15 @@
             </div>
         </details>
         <details>
-            <summary>🚀 <strong>Languages & Tools</strong></summary>
-            <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-            </div>
-        </details>
+    <summary>🚀 <strong>Languages & Tools</strong></summary>
+    <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sfml/sfml-original.svg" alt="SFML" width="45" height="45" />
+    </div>
+</details>
         <details>
             <summary>🔥 <strong>My Stats</strong></summary>
             <div align="center">
