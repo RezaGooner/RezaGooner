@@ -42,6 +42,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sfml/sfml-original.svg" alt="SFML" width="45" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
     </div>
 </details>
         <details>
