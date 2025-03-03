@@ -60,7 +60,7 @@
                 </p>
             </li>
             <li>
-                <p> Passing the Quera Data Structures course with a PERFECT grade. <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">Course certificate</a>
+                <p> Passing the Quera Data Structures Design course with a PERFECT grade. <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">Course certificate</a>
                 </p>
             </li>
             <li>
