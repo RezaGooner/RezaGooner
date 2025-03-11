@@ -33,18 +33,18 @@
             </div>
         </details>
         <details>
-    <summary>🚀 <strong>Languages & Tools</strong></summary>
-    <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sfml/sfml-original.svg" alt="SFML" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
-    </div>
-</details>
+            <summary>🚀 <strong>Languages & Tools</strong></summary>
+            <div align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sfml/sfml-original.svg" alt="SFML" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
+            </div>
+        </details>
         <details>
             <summary>🔥 <strong>My Stats</strong></summary>
             <div align="center">
@@ -53,26 +53,27 @@
             </div>
         </details>
         <details>
-    <summary>🏅 <strong>Honors and Achievements</strong></summary>
-    <div style="text-align: left; direction: ltr;">
-        <ul>
-            <li>
-                <p> Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
-                    You can view the scoreboard 
-                    <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>
-                </p>
-            </li>
-            <li>
-                <p> Passing the Quera Data Structures Design course with a PERFECT grade. <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">Course certificate</a>
-                </p>
-            </li>
-            <li>
-                <p> Passing the Quera Data Analysis with Python course with a VERY GOOD grade. <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">Course certificate</a>
-                </p>
-            </li>
-        </ul>
-    </div>
-</details>
-
-</body>
-</html>
+            <summary>🏅 <strong>Honors and Achievements</strong></summary>
+            <div style="text-align: left; direction: ltr;">
+                <ul>
+                    <li>
+                        <p> Honored to secure the first quota for Yasouj University to participate in the ICPC Tehran site competitions and achieve 35th place out of 60 places in the 2024 Tehran site competition. 
+                            You can view the scoreboard 
+                            <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">here</a>
+                        </p>
+                        <img src="https://github.com/user-attachments/assets/67434fa2-ed05-4540-a9d5-ebb1caa5d975" width="500" height="350" />
+                    </li>
+                    <li>
+                        <p> Passing the Quera Data Structures Design course with a PERFECT grade. <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">Course certificate</a>
+                        </p>
+                        <img src="https://github.com/user-attachments/assets/6fc0ae7c-a9ee-46de-bac2-54bc4e0680b0" alt="Quera DS Certificate" width="500" height="350" />
+                    </li>
+                    <li>
+                        <p> Passing the Quera Data Analysis with Python course with a VERY GOOD grade. <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">Course certificate</a>
+                        </p>
+                        <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200" alt="Quera DA Certificate" width="500" height="350" />
+                    </li>
+                </ul>
+            </div>
+        </details>
+    </body>
