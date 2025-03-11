@@ -76,4 +76,43 @@
                 </ul>
             </div>
         </details>
+        <details>
+    <summary>💰 <strong>Donation and Financial Aid</strong></summary>
+    <div style="text-align: left; direction: ltr;">
+        <p>
+            Due to political sanctions, I cannot use payment gateways like PayPal, and the best way is to transfer digital currency. Your support will be very valuable and promising for me.
+        </p>
+        <ul>
+            <li>
+                <strong>Bitcoin (BTC):</strong>
+                <code>158ydszwvJ8UZKg242NKJQCv7HNFzS78Kb</code>
+            </li>
+            <li>
+                <strong>Ethereum (ETH - ERC20):</strong>
+                <code>0x29376fF1359f16CEa7be478b482e40fcfa9e98A3</code>
+            </li>
+            <li>
+                <strong>Tether (USDT - ERC20):</strong>
+                <code>0x29376fF1359f16CEa7be478b482e40fcfa9e98A3</code>
+            </li>
+            <li>
+                <strong>Litecoin (LTC):</strong>
+                <code>LWHRTdrQXwzCjocwhEXJxscJnUuMybtZTF</code>
+            </li>
+            <li>
+                <strong>Tron-TRX (TRC-20):</strong>
+                <code>TDLZwhPvzY6P7bCsNudxyJ2i4DchyBw8fj</code>
+            </li>
+            <li>
+                <strong>TonCoin (TON):</strong>
+                <code>UQDBTOXXclOb4m_eMVpQWh4FFBBOdu73dvC4ReV98FV920B8</code>
+                <strong>Memo-Code (Comment):</strong>
+                <code>2713176977</code>
+            </li>
+        </ul>
+        <p>
+            Thank you for your support! 🙏
+        </p>
+    </div>
+</details>
     </body>
