@@ -45,17 +45,14 @@
                 <td align="center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
                     <br />
-                    <strong>Python</strong>
                 </td>
                 <td align="center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
                     <br />
-                    <strong>C++</strong>
                 </td>
                 <td align="center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
                     <br />
-                    <strong>Java</strong>
                 </td>
             </tr>
             <tr>
@@ -63,11 +60,13 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
                     <br />
                     <strong>NumPy</strong>
+                    <br />
+                    <small>(Data analysis)</small>
                 </td>
                 <td align="center">
                     <strong>SFML</strong>
                     <br />
-                    <small>(C++ Game)</small>
+                    <small>(Game)</small>
                 </td>
                 <td align="center">
                 </td>
@@ -77,11 +76,15 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
                     <br />
                     <strong>Pandas</strong>
+                    <br />
+                    <small>(Data analysis)</small>
                 </td>
                 <td align="center">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
                     <br />
                     <strong>QT</strong>
+                    <br />
+                    <small>(User Interface)</small>
                 </td>
                 <td align="center">
                 </td>
@@ -91,6 +94,8 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
                     <br />
                     <strong>Matplotlib</strong>
+                    <br />
+                    <small>(Data analysis)</small>
                 </td>
                 <td align="center">
                 </td>
