@@ -32,19 +32,96 @@
                 </a>
             </div>
         </details>
-        <details>
-            <summary>🚀 <strong>Languages & Tools</strong></summary>
-            <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sfml/sfml-original.svg" alt="SFML" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
-            </div>
-        </details>
+    <details>
+    <summary>🚀 <strong>Languages & Tools</strong></summary>
+    <div align="center">
+        <table>
+            <tr>
+                <th>Python</th>
+                <th>C++</th>
+                <th>Java</th>
+            </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+                    <br />
+                    <strong>Python</strong>
+                </td>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+                    <br />
+                    <strong>C++</strong>
+                </td>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+                    <br />
+                    <strong>Java</strong>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" />
+                    <br />
+                    <strong>NumPy</strong>
+                </td>
+                <td align="center">
+                    <strong>SFML</strong>
+                    <br />
+                    <small>(C++ Game)</small>
+                </td>
+                <td align="center">
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
+                    <br />
+                    <strong>Pandas</strong>
+                </td>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="QT" width="45" height="45" />
+                    <br />
+                    <strong>QT</strong>
+                </td>
+                <td align="center">
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" />
+                    <br />
+                    <strong>Matplotlib</strong>
+                </td>
+                <td align="center">
+                </td>
+                <td align="center">
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <strong>NLTK</strong>
+                    <br />
+                    <small>(NLP)</small>
+                </td>
+                <td align="center">
+                </td>
+                <td align="center">
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <strong>spaCy</strong>
+                    <br />
+                    <small>(NLP)</small>
+                </td>
+                <td align="center">
+                </td>
+                <td align="center">
+                </td>
+            </tr>
+        </table>
+    </div>
+</details>
         <details>
             <summary>🔥 <strong>My Stats</strong></summary>
             <div align="center">
