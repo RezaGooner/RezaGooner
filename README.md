@@ -133,6 +133,22 @@
                 </td>
             </tr>
                         <!-- Github.com/RezaGooner -->
+          <tr>
+                <td style="border: 1px solid #30363d;">
+                    <details>
+                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
+                            🗣 Natural Language Processing
+                        </summary>
+                        <div style="padding: 15px;">
+                            <p>
+                                PERFECT grade certification in Quera NLP(Natural Language Processing) course.
+                                <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank">View Certificate</a>
+                            </p>
+                            <img src="https://github.com/user-attachments/assets/d473f7e6-5b43-4cee-b090-4dafdf16ca12" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
+                        </div>
+                    </details>
+                </td>
+            </tr>
         </table>
     </div>
 </details>
