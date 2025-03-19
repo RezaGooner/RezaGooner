@@ -68,6 +68,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-Computing-013243?logo=numpy&style=flat" />
+      <img src="https://img.shields.io/badge/Gensim-Pro-FF6F61?logo=gensim&style=flat" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/NLTK-Toolkit-3776AB?logo=python&style=flat" />
