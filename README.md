@@ -32,7 +32,7 @@
     <details>
     <summary>🚀 <strong>Languages & Tools</strong></summary>
     <div align="center">
-<table>
+    <table>
   <tr>
     <th>🛠️ Core Tech</th>
     <th>🎮 Game Dev</th>
@@ -40,16 +40,20 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&style=flat" />
-      <img src="https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B&style=flat" />
+      <!-- Python -->
+      <img src="https://img.shields.io/badge/Python-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
+      <!-- C++ -->
+      <img src="https://img.shields.io/badge/C++-00b802?logo=c%2B%2B&logoColor=white&style=flat&labelColor=transparent&color=00b802" />
     </td>
     <td>
-                    <!-- Github.com/RezaGooner -->
-      <img src="https://img.shields.io/badge/SFML-Game%20Development-8E44AD?logo=sfml&style=flat" />
+      <!-- SFML -->
+      <img src="https://img.shields.io/badge/SFML-00b802?logo=sfml&logoColor=white&style=flat&labelColor=transparent&color=00b802" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Qt-GUI%20Development-41CD52?logo=qt&style=flat" />
-      <img src="https://img.shields.io/badge/Tkinter-GUI%20Toolkit-3776AB?logo=python&style=flat" />
+      <!-- Qt C++ -->
+      <img src="https://img.shields.io/badge/Qt_C++-00b802?logo=qt&logoColor=white&style=flat&labelColor=transparent&color=00b802" />
+      <!-- Tkinter -->
+      <img src="https://img.shields.io/badge/Tkinter-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
   </tr>
   
@@ -63,19 +67,25 @@
   
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Pandas-Pro-150458?logo=pandas&style=flat" />
-      <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib&style=flat" />
+      <!-- Pandas -->
+      <img src="https://img.shields.io/badge/Pandas-0058b5?logo=pandas&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
+      <!-- Matplotlib -->
+      <img src="https://img.shields.io/badge/Matplotlib-0058b5?logo=matplotlib&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/NumPy-Computing-013243?logo=numpy&style=flat" />
-      <img src="https://img.shields.io/badge/Gensim-Pro-FF6F61?logo=gensim&style=flat" />
+      <!-- NumPy -->
+      <img src="https://img.shields.io/badge/NumPy-0058b5?logo=numpy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
+      <!-- Gensim -->
+      <img src="https://img.shields.io/badge/Gensim-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/NLTK-Toolkit-3776AB?logo=python&style=flat" />
-      <img src="https://img.shields.io/badge/spaCy-Industrial-09A3D5?logo=spacy&style=flat" />
+      <!-- NLTK -->
+      <img src="https://img.shields.io/badge/NLTK-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
+      <!-- spaCy -->
+      <img src="https://img.shields.io/badge/spaCy-0058b5?logo=spacy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
   </tr>
-</table>
+</table>    
     </div>
                 <!-- Github.com/RezaGooner -->
 </details>
