@@ -102,7 +102,7 @@
                         </summary>
                         <div style="padding: 15px;">
                             <p>
-                                Honored to secure the first quota for Yasouj University and achieve 35th place in Tehran site competition.
+                                The honor of securing the first-ever quota for Yasouj University and achieving 35th place in the Tehran site competitions.
                                 <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">View Scoreboard</a>
                             </p>
                             <img src="https://github.com/user-attachments/assets/67434fa2-ed05-4540-a9d5-ebb1caa5d975" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
