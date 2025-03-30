@@ -177,6 +177,20 @@
                     </details>
                 </td>
             </tr>
+           <tr>
+                <td style="border: 1px solid #30363d;">
+                    <details>
+                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
+                            🤖 Large Language Model
+                        </summary>
+                        <div style="padding: 15px;">
+                            <p>
+                                Learning...
+                            </p>
+                        </div>
+                    </details>
+                </td>
+            </tr>
         </table>
     </div>
 </details>
