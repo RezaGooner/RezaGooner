@@ -85,6 +85,24 @@
       <img src="https://img.shields.io/badge/spaCy-0058b5?logo=spacy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
   </tr>
+  <tr>
+    <td colspan="3" style="padding: 15px 0 5px 0;">
+      <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
+        🤖 Large Language Models (LLM)
+      </h4>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="3">
+      <!-- LangChain -->
+      <img src="https://img.shields.io/badge/LangChain-00A67E?logo=python&logoColor=white&style=flat&labelColor=transparent&color=00A67E" />
+      <!-- Cohere -->
+      <img src="https://img.shields.io/badge/Cohere-FFFFFF?logo=cohere&logoColor=black&style=flat&labelColor=transparent" />
+    </td>
+  </tr>
+</table>
+
 </table>    
     </div>
                 <!-- Github.com/RezaGooner -->
