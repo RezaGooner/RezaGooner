@@ -177,23 +177,24 @@
                     </details>
                 </td>
             </tr>
-           <tr>
+          <tr>
                 <td style="border: 1px solid #30363d;">
                     <details>
                         <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            🤖 Large Language Model
+                            🤖 Large Language Models
                         </summary>
                         <div style="padding: 15px;">
                             <p>
-                                Learning...
+                                PERFECT grade certification in Quera LLM(Large Language Models) course.
+                                <a href="https://quera.org/certificate/99DoHWjF/" target="_blank">View Certificate</a>
                             </p>
-                        </div>
+                            <img src="https://github.com/user-attachments/assets/1a1b18c1-8abf-422c-83e9-2ef26445d2ee" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
                     </details>
                 </td>
             </tr>
         </table>
     </div>
-</details>
+</details>  
 <details>
   <summary>💰 <strong>Donation and Financial Aid</strong></summary>
   <div style="text-align: left; direction: ltr;">
