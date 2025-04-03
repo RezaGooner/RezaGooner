@@ -196,7 +196,7 @@
     </div>
 </details>  
 <details>
-  <summary>💰 <strong>Donation and Financial Aid</strong></summary>
+  <summary>💰 <strong>Donation and Sponsoring</strong></summary>
   <div style="text-align: left; direction: ltr;">
     <p>
       Due to political sanctions, I cannot use payment gateways like PayPal, and the best way is to transfer digital currency. Your support will be very valuable and promising for me.
