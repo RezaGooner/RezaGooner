@@ -108,7 +108,7 @@
                 <!-- Github.com/RezaGooner -->
 </details>
     <details>
-    <summary>🏅 <strong>Honors and Achievements</strong></summary>
+    <summary>🏅 <strong>Achievements and Certifications</strong></summary>
     <div style="text-align: left; direction: ltr;">
         <table style="width: 100%; border-collapse: collapse;">
             <!-- Github.com/RezaGooner -->
@@ -189,6 +189,19 @@
                                 <a href="https://quera.org/certificate/99DoHWjF/" target="_blank">View Certificate</a>
                             </p>
                             <img src="https://github.com/user-attachments/assets/1a1b18c1-8abf-422c-83e9-2ef26445d2ee" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
+                    </details>
+                </td>
+            </tr>
+                          <tr>
+                <td style="border: 1px solid #30363d;">
+                    <details>
+                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
+                            🧠 Deep Learning
+                        </summary>
+                        <div style="padding: 15px;">
+                            <p>
+                                Learning...
+                            </p>
                     </details>
                 </td>
             </tr>
