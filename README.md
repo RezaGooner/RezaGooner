@@ -84,7 +84,30 @@
       <!-- spaCy -->
       <img src="https://img.shields.io/badge/spaCy-0058b5?logo=spacy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
+  </tr>  
+  <tr>
+    <td colspan="3" style="padding: 15px 0 5px 0;">
+      <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
+        🤖 Deep Learning Frameworks
+      </h4>
+    </td>
   </tr>
+  
+  <tr>
+    <td>
+      <!-- TensorFlow -->
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat&labelColor=transparent" 
+            </td>
+    <td>
+      <!-- Keras -->
+      <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
+    <td>
+      <!-- PyTorch -->
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
+  </tr>
+  
   <tr>
     <td colspan="3" style="padding: 15px 0 5px 0;">
       <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
@@ -192,7 +215,7 @@
                     </details>
                 </td>
             </tr>
-                          <tr>
+            <tr>
                 <td style="border: 1px solid #30363d;">
                     <details>
                         <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
@@ -200,8 +223,10 @@
                         </summary>
                         <div style="padding: 15px;">
                             <p>
-                                Learning...
+                                VERY GOOD grade certification in Quera Deep Learning course.
+                                <a href="https://quera.org/certificate/A08MbVsz/" target="_blank">View Certificate</a>
                             </p>
+                            <img src="https://github.com/user-attachments/assets/c0fbf1f3-8504-4d08-9e88-a2db179ff957" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
                     </details>
                 </td>
             </tr>
