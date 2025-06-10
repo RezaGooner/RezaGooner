@@ -19,7 +19,7 @@
   </div>
 </div>
         <ul>
-            <li>👀 Interested in Data and Algorithm</li>
+            <li>👀 Interested in AI and ML</li>
             <li>🎓 Computer Engineering Student at Yasouj University</li>
             <li>🌱 Learning Full-Stack Development</li>
             <li>🏆 Competitive Programming with C++ and Python</li>
