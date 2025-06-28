@@ -129,109 +129,118 @@
     </div>
                 <!-- Github.com/RezaGooner -->
 </details>
-    <details>
-    <summary>🏅 <strong>Achievements and Certifications</strong></summary>
-    <div style="text-align: left; direction: ltr;">
-        <table style="width: 100%; border-collapse: collapse;">
-            <!-- Github.com/RezaGooner -->
-            <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            🏆 ICPC 2024 Competition Result
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                The honor of securing the first-ever quota for Yasouj University and achieving 35th place in the Tehran site competitions.
-                                <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">View Scoreboard</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/67434fa2-ed05-4540-a9d5-ebb1caa5d975" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                        </div>
-                    </details>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            📚 Data Structures Design
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                PERFECT grade certification in Quera Data Structures course.
-                                <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">View Certificate</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/6fc0ae7c-a9ee-46de-bac2-54bc4e0680b0" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                        </div>
-                    </details>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            📊 Data Analysis with Python
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                VERY GOOD grade certification in Quera Data Analysis course.
-                                <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">View Certificate</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                        </div>
-                    </details>
-                </td>
-            </tr>
-                        <!-- Github.com/RezaGooner -->
-          <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            🗣 Natural Language Processing
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                PERFECT grade certification in Quera NLP(Natural Language Processing) course.
-                                <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank">View Certificate</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/d473f7e6-5b43-4cee-b090-4dafdf16ca12" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                        </div>
-                    </details>
-                </td>
-            </tr>
-          <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            🤖 Large Language Models
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                PERFECT grade certification in Quera LLM(Large Language Models) course.
-                                <a href="https://quera.org/certificate/99DoHWjF/" target="_blank">View Certificate</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/1a1b18c1-8abf-422c-83e9-2ef26445d2ee" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                    </details>
-                </td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid #30363d;">
-                    <details>
-                        <summary style="cursor: pointer; padding: 15px; border-bottom: 1px solid #34FF1F;">
-                            🧠 Deep Learning
-                        </summary>
-                        <div style="padding: 15px;">
-                            <p>
-                                VERY GOOD grade certification in Quera Deep Learning course.
-                                <a href="https://quera.org/certificate/A08MbVsz/" target="_blank">View Certificate</a>
-                            </p>
-                            <img src="https://github.com/user-attachments/assets/c0fbf1f3-8504-4d08-9e88-a2db179ff957" style="width: 50%; max-width: 250px; height: auto; border-radius: 8px;" />
-                    </details>
-                </td>
-            </tr>
-        </table>
-    </div>
-</details>  
+<details>
+  <summary>🏅 Achievements and Certifications</summary>
+  <table style="width:100%; border-collapse:collapse; margin-top:10px;">
+    <tr>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/67434fa2-ed05-4540-a9d5-ebb1caa5d975"
+                 alt="ICPC 2024 Result" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://icpc.sharif.edu/2024/scoreboard/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              ICPC 2024 – Tehran Site, Rank 35
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/6fc0ae7c-a9ee-46de-bac2-54bc4e0680b0"
+                 alt="Data Structures Design" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/Flz0oEbP/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Data Structures Design – PERFECT Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200"
+                 alt="Data Analysis with Python" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Data Analysis with Python – VERY GOOD Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+    <tr>
+      <!-- ردیف دوم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/d473f7e6-5b43-4cee-b090-4dafdf16ca12"
+                 alt="Natural Language Processing" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Natural Language Processing – PERFECT Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/99DoHWjF/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/1a1b18c1-8abf-422c-83e9-2ef26445d2ee"
+                 alt="Large Language Models" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/99DoHWjF/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Large Language Models – PERFECT Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/A08MbVsz/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/c0fbf1f3-8504-4d08-9e88-a2db179ff957"
+                 alt="Deep Learning" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/A08MbVsz/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Deep Learning – VERY GOOD Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+    </tr>
+    <tr>
+      
+      <!-- ردیف سوم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/9039C997?lang=en/" target="_blank">
+            <img src=""
+
+                 alt="Python Libraries for ML & DL" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Python Libraries for ML & DL
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+  </table>
+</details>
 <details>
   <summary>💰 <strong>Donation and Sponsoring</strong></summary>
   <div style="text-align: left; direction: ltr;">
