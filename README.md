@@ -222,17 +222,15 @@
       </td>
     </tr>
     <tr>
-      
       <!-- ردیف سوم -->
       <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
           <a href="https://faradars.org/verify/9039C997?lang=en/" target="_blank">
-            <img src=""
-
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/main/certificate-1.png"
                  alt="Python Libraries for ML & DL" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
-            <a href="https://quera.org/certificate/4Ptal4Nw/" target="_blank"
+            <a href="https://faradars.org/verify/9039C997?lang=en/" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
               Python Libraries for ML & DL
             </a>
