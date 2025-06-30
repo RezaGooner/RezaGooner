@@ -251,6 +251,21 @@
           </figcaption>
         </figure>
       </td>
+      </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/0CC3B50C" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/d3c36031a2fc50bc414e2b79298241a56978eee6/certificate_0cc3b50c_en.jpg"
+                 alt="Mastering Machine Learning" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/0CC3B50C" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Mastering Machine Learning
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
