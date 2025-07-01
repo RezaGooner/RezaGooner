@@ -282,6 +282,20 @@
           </figcaption>
         </figure>
       </td>
+       <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/4F4757FD" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/557cf96d26dc5c40c9acce80f91e285e6a615f35/certificate_4f4757fd_en.jpg"
+                 alt="Object Detection" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/4F4757FD" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Object Detection
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
