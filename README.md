@@ -266,6 +266,22 @@
           </figcaption>
         </figure>
       </td>
+    <tr>
+      <!-- ردیف چهارم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/D064A73E" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/8157df54f78a7e7ac3b861ad732f8b9b6adcd2d0/certificate_d064a73e_en.jpg"
+                 alt="Generative AI" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/D064A73E" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Generative AI
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
