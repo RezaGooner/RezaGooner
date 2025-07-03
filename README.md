@@ -296,6 +296,20 @@
           </figcaption>
         </figure>
       </td>
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/86EE37B1" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/9da4ef03d49981ab58782f10cb77a3b3def736b7/certificate_86ee37b1_en.jpg"
+                 alt="Computer Vision(Object Detection)" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/86EE37B1" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Computer Vision(Object Detection)
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
