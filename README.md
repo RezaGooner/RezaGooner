@@ -300,16 +300,34 @@
         <figure style="margin:0;">
           <a href="https://faradars.org/verify/86EE37B1" target="_blank">
             <img src="https://github.com/RezaGooner/RezaGooner/blob/9da4ef03d49981ab58782f10cb77a3b3def736b7/certificate_86ee37b1_en.jpg"
-                 alt="Computer Vision(Object Detection)" width="500"/>
+                 alt="Computer Vision" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
             <a href="https://faradars.org/verify/86EE37B1" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
-              Computer Vision(Object Detection)
+              Computer Vision
             </a>
           </figcaption>
         </figure>
       </td>
+      </tr>
+    <tr>
+      <!-- ردیف پنجم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://faradars.org/verify/575E6411" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/273d8b5a2a5d9b9fefff1b9aa467d281a063f6c5/certificate_575e6411_en.jpg"
+                 alt="deep learning fundamentals" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/575E6411" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              deep learning fundamentals
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+
   </table>
 </details>
 <details>
