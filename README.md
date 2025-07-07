@@ -31,7 +31,7 @@
     <details>
     <summary>🚀 <strong>Languages & Tools</strong></summary>
     <div align="center">
-    <table>
+<table>
   <tr>
     <th>🛠️ Core Tech</th>
     <th>🎮 Game Dev</th>
@@ -84,6 +84,23 @@
       <img src="https://img.shields.io/badge/spaCy-0058b5?logo=spacy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
   </tr>  
+
+  <!-- 👁️ Computer Vision row -->
+  <tr>
+    <td colspan="3" style="padding: 15px 0 5px 0;">
+      <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
+        👁️ Computer Vision
+      </h4>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <!-- YOLO -->
+      <img src="https://img.shields.io/badge/YOLO-FFCC00?logo=yolo&logoColor=black&style=flat&labelColor=transparent&color=FFCC00" />
+      <!-- (You can add more vision libs here e.g. OpenCV, MediaPipe, etc) -->
+    </td>
+  </tr>
+  
   <tr>
     <td colspan="3" style="padding: 15px 0 5px 0;">
       <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
@@ -95,8 +112,8 @@
   <tr>
     <td>
       <!-- TensorFlow -->
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat&labelColor=transparent" 
-            </td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
     <td>
       <!-- Keras -->
       <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat&labelColor=transparent" />
@@ -124,6 +141,7 @@
     </td>
   </tr>
 </table>
+
 
 </table>    
     </div>
