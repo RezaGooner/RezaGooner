@@ -335,12 +335,26 @@
         <figure style="margin:0;">
           <a href="https://faradars.org/verify/575E6411" target="_blank">
             <img src="https://github.com/RezaGooner/RezaGooner/blob/273d8b5a2a5d9b9fefff1b9aa467d281a063f6c5/certificate_575e6411_en.jpg"
-                 alt="deep learning fundamentals" width="500"/>
+                 alt="Deep Learning Fundamentals" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
             <a href="https://faradars.org/verify/575E6411" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
-              deep learning fundamentals
+              Deep Learning Fundamentals
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+   <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
+            <img src="https://github.com/user-attachments/assets/7fec2bc8-c561-4c92-b964-fc771c65a82f"
+                 alt="Deep Learning for Object Detection and Recognition" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Deep Learning for Object Detection and Recognition
             </a>
           </figcaption>
         </figure>
