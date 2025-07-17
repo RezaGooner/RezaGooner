@@ -359,7 +359,20 @@
           </figcaption>
         </figure>
       </td>
-
+  <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://quera.org/certificate/7yi1CcBA/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/2eb0246f-b9b9-4aa9-8a61-9effc2862e8b"
+                 alt="Professional Image Processing - VERY GOOD Grade" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://quera.org/certificate/7yi1CcBA/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+Professional Image Processing - VERY GOOD Grade
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
