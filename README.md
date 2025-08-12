@@ -255,16 +255,16 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
-         <td style="text-align:center; padding:10px; vertical-align:top;">
+      <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
-          <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
-            <img src="https://github.com/user-attachments/assets/7fec2bc8-c561-4c92-b964-fc771c65a82f"
-                 alt="Deep Learning for Object Detection and Recognition" width="500"/>
+          <a href="https://faradars.org/verify/7886CBA3" target="_blank">
+            <img src="https://github.com/RezaGooner/RezaGooner/blob/5537f6890b8ec9af8896306e35743d595f61cf82/certificate_7886cba3_en.jpg"
+                 alt="Mastering Git, GitHub and GitLab" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
-            <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank"
+            <a href="https://faradars.org/verify/7886CBA3" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
-              Deep Learning for Object Detection and Recognition
+              Mastering Git, GitHub and GitLab
             </a>
           </figcaption>
         </figure>
@@ -358,16 +358,16 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
-      <td style="text-align:center; padding:10px; vertical-align:top;">
+               <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
-          <a href="https://faradars.org/verify/7886CBA3" target="_blank">
-            <img src="https://github.com/RezaGooner/RezaGooner/blob/5537f6890b8ec9af8896306e35743d595f61cf82/certificate_7886cba3_en.jpg"
-                 alt="Mastering Git, GitHub and GitLab" width="500"/>
+          <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
+            <img src="https://github.com/user-attachments/assets/7fec2bc8-c561-4c92-b964-fc771c65a82f"
+                 alt="Deep Learning for Object Detection and Recognition" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
-            <a href="https://faradars.org/verify/7886CBA3" target="_blank"
+            <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
-              Mastering Git, GitHub and GitLab
+              Deep Learning for Object Detection and Recognition
             </a>
           </figcaption>
         </figure>
