@@ -372,6 +372,22 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
+      <tr>
+      <!-- ردیف ششم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://maktabkhooneh.org/certificates/mk-3ap6cm/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/9e4e97b3-a2b6-4a8f-98e7-3f5c2e394c49"
+                 alt="Machine Vision and Image Processing with OpenCV" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://maktabkhooneh.org/certificates/mk-3ap6cm/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Machine Vision and Image Processing with OpenCV
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
