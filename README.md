@@ -360,14 +360,14 @@ Professional Image Processing - VERY GOOD Grade
       </td>
                <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
-          <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
-            <img src="https://github.com/user-attachments/assets/7fec2bc8-c561-4c92-b964-fc771c65a82f"
-                 alt="Deep Learning for Object Detection and Recognition" width="500"/>
+          <a href="https://faradars.org/verify/FEAA454F" target="_blank">
+            <img src="https://github.com/user-attachments/assets/a14e6d94-9468-444f-ad24-ee50b47ff2c8"
+                 alt="Advanced Techniques for Reinforcment Learning" width="500"/>
           </a>
           <figcaption style="margin-top:8px; font-size:14px;">
-            <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank"
+            <a href="https://faradars.org/verify/FEAA454F" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
-              Deep Learning for Object Detection and Recognition
+              Advanced Techniques for Reinforcment Learning
             </a>
           </figcaption>
         </figure>
@@ -384,6 +384,21 @@ Professional Image Processing - VERY GOOD Grade
             <a href="https://maktabkhooneh.org/certificates/mk-3ap6cm/" target="_blank"
                style="color:#58a6ff; text-decoration:none;">
               Machine Vision and Image Processing with OpenCV
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+        </td>
+               <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
+            <img src="https://github.com/user-attachments/assets/7fec2bc8-c561-4c92-b964-fc771c65a82f"
+                 alt="Deep Learning for Object Detection and Recognition" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Deep Learning for Object Detection and Recognition
             </a>
           </figcaption>
         </figure>
