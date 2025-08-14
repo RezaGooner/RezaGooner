@@ -376,6 +376,20 @@ Professional Image Processing - VERY GOOD Grade
       <!-- ردیف ششم -->
       <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
+          <a href="https://faradars.org/verify/2F9E19DC" target="_blank">
+            <img src="https://github.com/user-attachments/assets/66a9816e-6062-4108-b086-a3dfb04de378"
+                 alt="Deep Reinforcmen Learning with DQN" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://faradars.org/verify/2F9E19DC" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Deep Reinforcmen Learning with DQN
+            </a>
+          </figcaption>
+        </figure>
+      </td>
+        <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
           <a href="https://maktabkhooneh.org/certificates/mk-3ap6cm/" target="_blank">
             <img src="https://github.com/user-attachments/assets/9e4e97b3-a2b6-4a8f-98e7-3f5c2e394c49"
                  alt="Machine Vision and Image Processing with OpenCV" width="500"/>
@@ -388,7 +402,6 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
-        </td>
                <td style="text-align:center; padding:10px; vertical-align:top;">
         <figure style="margin:0;">
           <a href="https://maktabkhooneh.org/certificates/MK-GLYD87" target="_blank">
