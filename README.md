@@ -416,6 +416,22 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
+        <tr>
+      <!-- ردیف هفتم -->
+      <td style="text-align:center; padding:10px; vertical-align:top;">
+        <figure style="margin:0;">
+          <a href="https://maktabkhooneh.org/certificates/mk-d3grru/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/ac44b0c9-abfa-4f01-941d-4cac8cb78ad4"
+                 alt="Machine Learning" width="500"/>
+          </a>
+          <figcaption style="margin-top:8px; font-size:14px;">
+            <a href="https://maktabkhooneh.org/certificates/mk-d3grru/" target="_blank"
+               style="color:#58a6ff; text-decoration:none;">
+              Machine Learning
+            </a>
+          </figcaption>
+        </figure>
+      </td>
   </table>
 </details>
 <details>
