@@ -17,9 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RezaGooner&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGooner&theme=dark&hide_border=true" />
 </div>             
-    <details>
-    <summary>🚀 <strong>Languages & Tools</strong></summary>
-    <div align="center">
+<details>
+<summary>🚀 <strong>Languages & Tools</strong></summary>
+<div align="center">
 <table>
   <tr>
     <th>🛠️ Core Tech</th>
@@ -71,6 +71,10 @@
       <img src="https://img.shields.io/badge/NLTK-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
       <!-- spaCy -->
       <img src="https://img.shields.io/badge/spaCy-0058b5?logo=spacy&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
+      <!-- Scikit-learn -->
+      <img src="https://img.shields.io/badge/Scikit--learn-EE4C2C?logo=scikitlearn&logoColor=white&style=flat&labelColor=transparent" />
+      <!-- XGBoost -->
+      <img src="https://img.shields.io/badge/XGBoost-FF6600?logo=python&logoColor=white&style=flat&labelColor=transparent" />
     </td>
   </tr>  
 
@@ -86,7 +90,10 @@
     <td colspan="3">
       <!-- YOLO -->
       <img src="https://img.shields.io/badge/YOLO-FFCC00?logo=yolo&logoColor=black&style=flat&labelColor=transparent&color=FFCC00" />
-      <!-- (You can add more vision libs here e.g. OpenCV, MediaPipe, etc) -->
+      <!-- OpenCV -->
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat&labelColor=transparent&color=5C3EE8" />
+      <!-- Pillow -->
+      <img src="https://img.shields.io/badge/Pillow-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent&color=0058b5" />
     </td>
   </tr>
   
@@ -112,6 +119,29 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat&labelColor=transparent" />
     </td>
   </tr>
+
+  <tr>
+    <td colspan="3" style="padding: 15px 0 5px 0;">
+      <h4 style="margin: 0; color: #34FF1F; border-bottom: 2px solid #34FF1F; padding-bottom: 5px;">
+        🎯 Reinforcement Learning
+      </h4>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <!-- Stable-Baselines3 -->
+      <img src="https://img.shields.io/badge/Stable--Baselines3-FF6F00?logo=python&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
+    <td>
+      <!-- Gymnasium -->
+      <img src="https://img.shields.io/badge/Gymnasium-0058b5?logo=python&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
+    <td>
+      <!-- PettingZoo -->
+      <img src="https://img.shields.io/badge/PettingZoo-00b802?logo=python&logoColor=white&style=flat&labelColor=transparent" />
+    </td>
+  </tr>
   
   <tr>
     <td colspan="3" style="padding: 15px 0 5px 0;">
@@ -130,11 +160,8 @@
     </td>
   </tr>
 </table>
-
-
-</table>    
-    </div>
-                <!-- Github.com/RezaGooner -->
+</div>
+<!-- Github.com/RezaGooner -->
 </details>
 <details>
   <summary>🏅 Achievements and Certifications</summary>
