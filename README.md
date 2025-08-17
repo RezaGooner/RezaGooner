@@ -3,21 +3,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=34FF1F&width=555&lines=%F0%9F%91%8B+Hi%2C+I'm+Reza;Hardworking+Programmer;Software+Engineer;Always+learning+%F0%9F%A4%96" />
   
-  <div class="badges" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
-    <a href="https://github.com/RezaGooner">
-      <img src="https://img.shields.io/badge/GitHub-RezaGooner-181717?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://t.me/RezaGooner">
-      <img src="https://img.shields.io/badge/Telegram-RezaGooner-2CA5E0?style=for-the-badge&logo=telegram" />
-    </a>
-    <a href="mailto:RezaAsadiProgrammer@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Professional%20Mail-D14836?style=for-the-badge&logo=gmail" />
-    </a>
-    <a href="https://x.com/RezaGooner">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
+<div class="badges" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
+
   </div>
-</div>
+</div> 
         <ul>
             <li>👀 Interested in AI and ML</li>
             <li>🎓 Computer Engineering Student at Yasouj University</li>
