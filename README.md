@@ -14,8 +14,9 @@
             <li>📧 Reach me via <a href="mailto:RezaAsadiProgrammer@gmail.com" target="_blank">Email</a></li>
         </ul>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RezaGooner&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGooner&layout=compact&theme=dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGooner&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaGooner&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
 </div>             
 <details>
 <summary>🚀 <strong>Languages & Tools</strong></summary>
