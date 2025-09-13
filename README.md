@@ -1,3 +1,5 @@
+# 𝓡𝓮𝔃𝓪 𝓐𝓼𝓪𝓭𝓲 
+
 </div> 
         <ul>
             <li>👀 Interested in AI and ML</li>
