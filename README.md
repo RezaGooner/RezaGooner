@@ -5,6 +5,8 @@
             <li>🏆 Competitive Programming with C++ and Python</li>
             <li>📧 Reach me via <a href="mailto:RezaAsadiProgrammer@gmail.com" target="_blank">Email</a></li>
         </ul>
+<details>
+  <summary>​🇦​​🇨​​🇭​​🇮​​🇪​​🇻​​🇪​​🇲​​🇪​​🇳​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇪​​🇷​​🇹​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​​🇸​</summary>
   <table style="width:100%; border-collapse:collapse; margin-top:10px;">
     <tr>
       <td style="text-align:center; padding:10px; vertical-align:top;">
@@ -311,3 +313,5 @@ Professional Image Processing - VERY GOOD Grade
   </figure>
 </td>
   </table>
+</details>
+<!-- ​🇵​​🇦​​🇵​​🇪​​🇷​​🇸​ ​🇦​​🇳​​🇩​ ​🇦​​🇷​​🇹​​🇮​​🇨​​🇱​​🇪​​🇸​-->
