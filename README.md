@@ -7,6 +7,7 @@
             <li>🏆 Competitive Programming with C++ and Python</li>
             <li>📧 Reach me via <a href="mailto:RezaAsadiProgrammer@gmail.com" target="_blank">Email</a></li>
         </ul>
+---
         <details>
   <summary>​🇦​​🇨​​🇭​​🇮​​🇪​​🇻​​🇪​​🇲​​🇪​​🇳​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇪​​🇷​​🇹​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​​🇸​</summary>
 <details>
@@ -358,5 +359,5 @@
     </table>
 </details>
 </details>
-
+---
 <!-- ​🇵​​🇦​​🇵​​🇪​​🇷​​🇸​ ​🇦​​🇳​​🇩​ ​🇦​​🇷​​🇹​​🇮​​🇨​​🇱​​🇪​​🇸​-->
