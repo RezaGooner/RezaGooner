@@ -10,7 +10,7 @@
         <details>
   <summary>​🇦​​🇨​​🇭​​🇮​​🇪​​🇻​​🇪​​🇲​​🇪​​🇳​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇪​​🇷​​🇹​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​​🇸​</summary>
 <details>
-    <summary>​🇦​​🇱​​🇬​​🇴​​🇷​​🇮​​🇹​​🇭​​🇲​​🇸​ ②</summary>
+    <summary>​🇦​​🇱​​🇬​​🇴​​🇷​​🇮​​🇹​​🇭​​🇲​​🇸​</summary>
     <table style="width:100%; border-collapse:collapse; margin-top:10px;">
         <tr>
             <td style="text-align:center; padding:10px; vertical-align:top;">
