@@ -449,6 +449,28 @@ Professional Image Processing - VERY GOOD Grade
           </figcaption>
         </figure>
       </td>
+          <td style="text-align:center; padding:10px; vertical-align:top;">
+  <figure style="margin:0;">
+    <a href="https://www.kaggle.com/learn/certification/rezagooner/data-visualization" target="_blank">
+      <img 
+        src="https://github.com/user-attachments/assets/050857aa-5afa-4ed3-8438-b31daebf1554" 
+        alt="Data Visualization" 
+        width="500" 
+        height="308" 
+        style="max-width:100%; height:auto;"
+      />
+    </a>
+    <figcaption style="margin-top:8px; font-size:14px;">
+      <a 
+        href="https://www.kaggle.com/learn/certification/rezagooner/data-visualization" 
+        target="_blank"
+        style="color:#58a6ff; text-decoration:none;"
+      >
+        Data Visualization
+      </a>
+    </figcaption>
+  </figure>
+</td>
   </table>
 </details>
 <details>
