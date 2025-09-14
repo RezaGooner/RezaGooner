@@ -50,6 +50,20 @@
     <summary>​🇩​​🇦​​🇹​​🇦​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​​</summary>
     <table style="width:100%; border-collapse:collapse; margin-top:10px;">
         <tr>
+                     <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200"
+                             alt="Data Analysis with Python" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Data Analysis with Python – VERY GOOD Grade
+                        </a>
+                    </figcaption>
+                </figure>
+            </td> 
             <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
                     <a href="https://www.kaggle.com/learn/certification/rezagooner/data-visualization" target="_blank">
@@ -72,16 +86,16 @@
                     </figcaption>
                 </figure>
             </td>
-                     <td style="text-align:center; padding:10px; vertical-align:top;">
+                <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
-                    <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">
-                        <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200"
-                             alt="Data Analysis with Python" width="500"/>
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/pandas" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/23311a3a-faaa-4a86-b438-f18f1be44a08"
+                             alt="Pandas" width="500"/>
                     </a>
                     <figcaption style="margin-top:8px; font-size:14px;">
-                        <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank"
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/pandas" target="_blank"
                            style="color:#58a6ff; text-decoration:none;">
-                            Data Analysis with Python – VERY GOOD Grade
+                            Pandas
                         </a>
                     </figcaption>
                 </figure>
