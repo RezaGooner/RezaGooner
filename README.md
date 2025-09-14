@@ -133,6 +133,22 @@
                 </figure>
             <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-machine-learning" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/b9f8c0f6-6a10-47b6-a048-ac3a3260d2dc"
+                             alt="Intro to Machine Learning" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-machine-learning" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Intro to Machine Learning
+                        </a>
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
+            <tr>
+                 <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
                     <a href="https://quera.org/certificate/QMcPIyhT/" target="_blank">
                         <img src="https://github.com/user-attachments/assets/0a541ce6-1092-44a0-a04e-ed5631ddb200"
                              alt="Data Analysis with Python" width="500"/>
@@ -144,8 +160,8 @@
                         </a>
                     </figcaption>
                 </figure>
-            </td>
-        </tr>
+            </td>    
+            </tr>
     </table>
 </details>
 
