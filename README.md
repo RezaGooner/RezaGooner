@@ -101,6 +101,22 @@
                 </figure>
             </td> 
         </tr>
+            <tr>
+                        <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/feature-engineering" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/10a29ab7-8658-47a2-982d-d22ca2e13a05"
+                             alt="Feature Engineering" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/feature-engineering" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Feature Engineering
+                        </a>
+                    </figcaption>
+                </figure>
+            </td> 
+            </tr>
     </table>
 </details>
 
