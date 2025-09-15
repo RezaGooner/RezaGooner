@@ -116,6 +116,20 @@
                     </figcaption>
                 </figure>
             </td> 
+                    <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/data-cleaning" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/94576e8e-e702-4752-8d3b-a2f7c2de64f8"
+                             alt="Data Cleaning" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/data-cleaning" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Data Cleaning
+                        </a>
+                    </figcaption>
+                </figure>
+            </td> 
             </tr>
     </table>
 </details>
