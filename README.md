@@ -311,6 +311,20 @@
                     </figcaption>
                 </figure>
             </td>
+            <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-deep-learning" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/9d8a6964-61c6-42ec-9e77-217c63f070e9"
+                             alt="Intro to Deep Learning" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-deep-learning" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Intro to Deep Learning
+                        </a>
+                    </figcaption>
+                </figure>
+            </td>
         </tr>
     </table>
 </details>
