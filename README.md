@@ -100,6 +100,8 @@
                     </figcaption>
                 </figure>
             </td> 
+        </tr>
+            <tr>
                         <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
                     <a href="https://www.kaggle.com/learn/certification/rezagooner/feature-engineering" target="_blank">
@@ -193,6 +195,8 @@
                     </figcaption>
                 </figure>
             </td>
+        </tr>
+        <tr>
             <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
                     <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-machine-learning" target="_blank">
@@ -235,6 +239,8 @@
                     </figcaption>
                 </figure>
             </td>
+            </tr
+                    <tr>
                             <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
                     <a href="https://maktabkhooneh.org/certificates/mk-d3grru/" target="_blank">
