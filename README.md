@@ -424,7 +424,7 @@
             <td style="text-align:center; padding:10px; vertical-align:top;">
                 <figure style="margin:0;">
                     <a href="https://www.kaggle.com/learn/certification/rezagooner/computer-vision" target="_blank">
-                        <img src="https://github.com/user-attachments/assets/1a42b880-9098-4614-aa3e-e4e90612cf51
+                        <img src="https://github.com/user-attachments/assets/1a42b880-9098-4614-aa3e-e4e90612cf51"
                              alt="Computer Vision" width="500"/>
                     </a>
                     <figcaption style="margin-top:8px; font-size:14px;">
