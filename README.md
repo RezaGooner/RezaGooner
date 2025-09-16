@@ -471,6 +471,20 @@
                     </figcaption>
                 </figure>
             </td>
+            <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-game-ai-and-reinforcement-learning" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/8652ff9b-5fed-40ac-a074-c4d1230a77b8"
+                             alt="Intro to Game AI and Reinforcement Learning" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://www.kaggle.com/learn/certification/rezagooner/intro-to-game-ai-and-reinforcement-learning" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            Intro to Game AI and Reinforcement Learning
+                        </a>
+                    </figcaption>
+                </figure>
+            </td>
         </tr>
     </table>
 </details>
