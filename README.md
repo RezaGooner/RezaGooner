@@ -436,6 +436,22 @@
                 </figure>
             </td>
             </tr>
+            <tr>
+                    <td style="text-align:center; padding:10px; vertical-align:top;">
+                <figure style="margin:0;">
+                    <a href="https://courses.opencv.org/certificates/f83fe0c6d1c043e5af23cc07e4763382" target="_blank">
+                        <img src="https://github.com/user-attachments/assets/1bdbf1af-9772-4cd0-82ab-ef2be4272673"
+                             alt="OPENCV BOOTCAMP" width="500"/>
+                    </a>
+                    <figcaption style="margin-top:8px; font-size:14px;">
+                        <a href="https://courses.opencv.org/certificates/f83fe0c6d1c043e5af23cc07e4763382" target="_blank"
+                           style="color:#58a6ff; text-decoration:none;">
+                            OPENCV BOOTCAMP
+                        </a>
+                    </figcaption>
+                </figure>
+            </td>
+            </tr>
     </table>
 </details>
 
